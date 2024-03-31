@@ -1,1 +1,32 @@
 console.log("LOGGGED THIS")
+
+
+function runGame()  {
+
+};
+
+
+function checkAnswer () {
+
+};
+
+function calculateCorrectAnswer () {
+
+};
+
+function incrementScore () {
+
+};
+
+function displayAdditionQuestion () {
+
+};
+
+function displaySubtractQuestion () {
+
+};
+
+function displayMultiplyQuestion () {
+
+};
+
